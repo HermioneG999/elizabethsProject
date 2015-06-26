@@ -1,0 +1,11 @@
+body {
+background-color:black;
+}
+p {color:white;
+}
+p#egg {
+	color:yellow;
+}
+p.lizabeth {
+	color:blue;
+}
